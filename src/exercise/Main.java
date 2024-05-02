@@ -3,6 +3,7 @@ package exercise;
 import java.util.List;
 import java.util.function.Function;
 
+// Funzioni da implementare
 public class Main {
     public static Function<String, List<Integer>> lunghezza() {
         return null;
