@@ -1,4 +1,5 @@
-package exercise;
+package test;
+import exercise.Main;
 
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
